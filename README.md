@@ -20,10 +20,6 @@
 </p>
 
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sejinseo&show_icons=true&locale=en&layout=compact" alt="sejinseo" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sejinseo&show_icons=true&locale=en" alt="sejinseo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sejinseo&" alt="sejinseo" /></p>
