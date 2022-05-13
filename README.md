@@ -20,4 +20,4 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sejinseo&show_icons=true&locale=en" alt="sejinseo" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sejinseo&show_icons=true&locale=en" alt="sejinseo" /></p>
